@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "onyx-sphere-352011",
+  "private_key_id": "b9fa74fb35c163704afa8bd5fc16962c81b093ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDGxH2rnu4qKUN/\nPXSafu5m62uzehYe2+jao2/5I74D26HU9JTpZ30c4sx67zHjY/G35amOqX7/cgBd\n6mY+c1mUuJIhg+6nJ0JVK9vPFS8tu07eoVKTcTbTuwrCtrYFpNxI51zBNwAuoJov\nI5pHUhhKJeX31KoRWatnuI2s1BAJpO+BXQwI/0ZwCxB30jZMGBTVD9MVv0WzjfHp\nRmm+N4zMEYBrdNC6L2V6D9stxFY17b01ZULFFgvzZioViI+U0P7lUJhPTIiErlxa\nQAfHXB9nDODeTgx07qaCL/XlVJsGpml+EfPU+qGBOPIikKJ1skjABMqyAtRggH+V\n46I+1loJAgMBAAECggEADH4XA+1WPLIhOuMK7BbkNvW+7CXVNBVQOkWhaQA1Fhr8\nvdyta0oE1AbxIRzdftQuQgeeM4g1oipxGXX8/RnU3IMJNDANlNXj1mSOSSKkt3QZ\nTebHwNqRvpb34ysGn64v5ikcbExfp46SgjnznV3shuSA4qWsFrETE87GoMEnTOPD\ndwBPEY3IuXAlRTQHYI7uXk2XaMMk68ySOuqdKsys5NduvQbM2bKlvl3NukkR8RjU\nyokASz/yFjQwaZrVteAAfv48MsDyi/sUoIGbxI3OiIjXjTNtMEMqddygcTL0FrmT\nPQe37RhqSMFcJsTpvQkKWrz/VYcXTGVoQISSbk//zQKBgQDy5euyVluMobdKiG0u\nBj9jcrjCM2ZNBN+jSZRPxl7MgVTZb3cqO1koPrEng9iozTBnDMJcgaxAepVpcfM0\nzLAorCFxXmuxZ1fJXbG4UXKgCAKyOfZFRqvO5B6RrvaiOpWV13PbTEt9JwnqfjSv\nUMvJg+ItdE2MYgP3mziolZBlvwKBgQDRfTB13FofKRNnIhdeoFG0mfe+gxkJpzEy\nAQisLwvrpCbk+4W04i916atj6yEs3tcyxaSGqNQtKf2mPNUaGcAbVeonEOCCx7ed\nw6xP8p0L35tckaMEyqxUajqEOyDMIWuB4ni+7Ho6V9gWHXzLzkaO6SRJrW3haiZ5\nUPHEtzsCNwKBgQDwAOcnS9Uh3Biz+KGIvHud1BljKk6HA63GNknpmWTKRXCFeHIS\ntJmf/nIlTU2jXTvaVu0lYqvE+lrv2bwqC6Z0ScCxuE5I+IfxXDbinPfZ0JB5cnQ4\nd2AECbt6z5q7KY/sgvrjUTu16gEORq3gHMF/2GR/7U9CywaIfkM5sK8BGQKBgQCm\nlrs2vqgcJ3n6ha233h2bVOUiZvY+KuqALTpMUo1UMhGL/khxc3zyc4OLzatwFzVi\ndrFDNHamA8Jls/Jy8w9FraiqsE0ZMuDdYIFigjhI/OR7VIUihllMN72Y8bw/GER5\n4TLMARmh08FOtNxM5hhOBTCKNpQusU8vIiNgn6UZOQKBgQDqmmaMtVu18Tg860WP\n7ZGP3VIEB8tWLQjW9PNSvtzeKT9h2Y2SSd8tDrjPOOof1K1b+Pt836lLSiYrgZgp\ngD5EuwWzLEgFXC7qb5A0IpJ9lO+CzRaUD7RYjl2ipun8wipSpAjTv7e3z5fWTEtm\nJSagB13qvkEaz47TkZ3tQLgNzA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "telegramrtlsheet@onyx-sphere-352011.iam.gserviceaccount.com",
+  "client_id": "103314849957371546566",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegramrtlsheet%40onyx-sphere-352011.iam.gserviceaccount.com"
+}
